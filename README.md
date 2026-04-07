@@ -1,13 +1,9 @@
-# 👋 Hi, I’m Ahmed Sabri (@Amsamms)
+# 👋 Hi, I'm Ahmed Sabri (@Amsamms)
 
-- 👨‍🔧 **About Me**: I’m a seasoned Process Engineer with over 16 years of experience in refinery operations.
-- 🔍 **Interests**: My passion lies in **Data Science**, **Process Optimization**, and **Advanced Process Control**.
-- 🌱 **Current Focus**: I’m actively expanding my expertise in **Python**, **Machine Learning**, and **AI** for various applications.
-- 🤝 **Freelance & Collaboration**: I’m open to collaborating on **data science projects** in any field, including freelance opportunities beyond process engineering.
-- 📊 **Skills**: Experienced in **Data Analytics**, **Predictive Modeling**, and **Automation**.
-- 📫 **Connect with Me**: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ahmed-sabri-91097955/).
-
-<!---
-Amsamms/Amsamms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 **Software Developer**: Building with **React Native**, **TypeScript**, and **Python** — contributing to open-source projects including [Expensify/App](https://github.com/Expensify/App)
+- 👨‍🔧 **Domain Expertise**: 16+ years in refinery operations — **Process Engineering**, **Advanced Process Control**, and **Data Science**
+- 🔍 **Interests**: **Mobile Development**, **Full-Stack Web Apps**, **Machine Learning**, and **Process Optimization**
+- 🌱 **Current Focus**: Open-source contributions, React Native mobile apps, and AI-powered tools
+- 🤝 **Freelance & Collaboration**: Open to collaborating on **software development** and **data science** projects
+- 📊 **Skills**: **React Native**, **TypeScript**, **Python**, **Data Analytics**, **Predictive Modeling**, **Automation**
+- 📫 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/ahmed-sabri-91097955/) | [Upwork](https://www.upwork.com/freelancers/~01ac6e6fb933cbfbf8)
